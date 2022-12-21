@@ -1,0 +1,21 @@
+.wrapper {
+  height: 100vh;
+  background-color: #f2d7e9;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.greetings {
+  background-color: #f7f7f7;
+  width: 400px;
+}
+
+.foto {
+  width: 300px;
+  height: 400px;
+  background-color: #f7f7f7;
+}

@@ -1,0 +1,20 @@
+.wrapper {
+  height: 100vh;
+  background-color: #d4ffc0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  background-color: #eeeef5;
+
+}
+
+.skills {
+  border: 1px solid;
+  width: 100%;
+}
