@@ -1,6 +1,13 @@
-.wrapper{
+.wrapper {
   height: 80px;
-  background-color: #99d0fb;
+  background-color: #cfeaff;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 80%;
+  /* border: 1px solid; */
   display: flex;
   justify-content: flex-end;
   align-items: center;

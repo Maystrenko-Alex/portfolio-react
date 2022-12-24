@@ -1,7 +1,13 @@
-.wrapper {
-  border: 1px solid red;
+.nav {
+  width: 350px;
+  border: 1px solid;
   display: flex;
-  width: 300px;
   justify-content: space-between;
+  padding: 0 5px;
+  flex-wrap: wrap;
 }
 
+.nav a {
+  text-decoration-line: none;
+  
+}

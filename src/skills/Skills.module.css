@@ -1,24 +1,27 @@
 .wrapper {
-  height: 100vh;
-  background-color: #d4ffc0;
+  background-color: #ddfee9;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
 }
 
 .container {
   display: flex;
-  align-items: center;
+  min-height: 800px;
   flex-direction: column;
-}
-
-.title {
-  background-color: #eeeef5;
+  justify-content: space-between;
 
 }
 
 .skills {
-  border: 1px solid;
-  width: 100%;
   display: flex;
+  border: 1px solid;
+  flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
-  /* gap: 20px; */
+  width: 100%;
+  
+}
+.title {
+  background-color: #d9d9d9;
 }
