@@ -1,0 +1,30 @@
+.wrapper {
+  height: 100vh;
+  background-color: #ffe2e2;
+  
+}
+
+.container {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  border: 1px solid;
+  width: 60%;
+}
+.form input {
+  font-size: 22px;
+  width: 100%;
+}
+.textarea {
+  width: 100%;
+}
+.button {
+  width: 70% ;
+}
