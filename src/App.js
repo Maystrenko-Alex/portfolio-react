@@ -1,6 +1,7 @@
 import './App.css';
 import { Contacts } from './contacts/Contacts';
 import { DistantWork } from './distantWork/DistantWork';
+import { Footer } from './footer/Footer';
 import { Header } from './header/Header';
 import { Main } from './main/Main';
 import { Skills } from './skills/Skills';
@@ -16,6 +17,7 @@ function App() {
       <Works />
       <DistantWork />
       <Contacts />
+      <Footer />
     </div>
   );
 }
