@@ -28,8 +28,8 @@ export const Works = () => {
 const Work = (props) => {
   return (
     <div className={style.item}>
-      <div className={style.image}>
-        <button>Смотреть</button>
+      <div className={style.imageBlock}>
+        <a href=''>Смотреть</a>
       </div>
       <div className={style.textBlock}>
         <h3 className={style.name}>{props.name}</h3>
