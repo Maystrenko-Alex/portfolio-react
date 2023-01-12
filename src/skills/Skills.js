@@ -19,16 +19,6 @@ export const Skills = () => {
           <Skill
             title={'React'}
             description={'Lorem ipsum dolor sit, amet consectetur adipisicing. ipsum dolor sit, amet'} />
-          <Skill
-            title={'JavaScript'}
-            description={'Lorem ipsum dolor sit, amet consectetur adipisicing.'} />
-          <Skill
-            title={'HTML/CSS'}
-            description={' Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum reiciendis' +
-              ' repudiandae asperiores assumenda. Ut inventore pariatur cumque ex magni.'} />
-          <Skill
-            title={'React'}
-            description={'Lorem ipsum dolor sit, amet consectetur adipisicing. ipsum dolor sit, amet'} />
         </div>
       </div>
     </div>
